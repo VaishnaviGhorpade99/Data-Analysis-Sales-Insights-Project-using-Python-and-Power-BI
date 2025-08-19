@@ -91,3 +91,5 @@ Integrate with Power Automate for scheduled refreshes.
 Extend dashboard to include customer churn analysis.
 
 **Dashboard Preview**
+
+![image alt](https://github.com/VaishnaviGhorpade99/Data-Analysis-Sales-Insights-Project-using-Python-and-Power-BI/blob/main/Dashboard.png)
