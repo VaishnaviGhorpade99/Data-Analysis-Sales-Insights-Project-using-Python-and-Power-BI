@@ -41,6 +41,9 @@ Customer Insights: Revenue by Customer Type and Top 5 Customers
 
 Product Analysis: Top Products by Sales
 
+**Relationships**
+![image alt]
+
 **Data Model**
 
 The dashboard follows a Star Schema design for efficient analytics:
