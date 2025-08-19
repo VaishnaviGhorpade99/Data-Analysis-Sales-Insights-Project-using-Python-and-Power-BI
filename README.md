@@ -76,6 +76,7 @@ Provided an automated, interactive reporting solution reducing manual report cre
 **Dashboard Preview**
 
 📂 Repository Structure
+
 ├── data/                # Raw and processed datasets  
 ├── scripts/             # Python preprocessing scripts  
 ├── queries/             # SQL queries for data extraction  
