@@ -42,7 +42,7 @@ Customer Insights: Revenue by Customer Type and Top 5 Customers
 Product Analysis: Top Products by Sales
 
 **Relationships**
-![image alt]
+![image alt](https://github.com/VaishnaviGhorpade99/Data-Analysis-Sales-Insights-Project-using-Python-and-Power-BI/blob/main/Relationships..png)
 
 **Data Model**
 
@@ -89,3 +89,5 @@ Add predictive analytics for sales forecasting.
 Integrate with Power Automate for scheduled refreshes.
 
 Extend dashboard to include customer churn analysis.
+
+**Dashboard Preview**
